@@ -10,7 +10,7 @@
 - 📫 How to reach me **shincyshnz@gmail.com**
 
  
-<img align="right" height="250" width= "200" src="https://github.com/shincyshnz/shincyshnz/assets/48871950/7489cdaa-2deb-4719-868a-2a595f4b26ce" />
+/*-- <img align="right" height="250" width= "200" src="https://github.com/shincyshnz/shincyshnz/assets/48871950/7489cdaa-2deb-4719-868a-2a595f4b26ce" /> --*/
 
 <div align="left">
   <h3 align="left" >Languages and Tools:</h3>
