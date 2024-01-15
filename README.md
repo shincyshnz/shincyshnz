@@ -15,7 +15,7 @@
 <div align="left">
   <h3 align="left" >Languages and Tools:</h3>
   
-   <div width="100%" align="center>
+   <div width="100%" align="center">
         <table border="0">
         <tr width="100%">
             <td>
