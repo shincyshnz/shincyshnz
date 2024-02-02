@@ -3,7 +3,7 @@
 
 <div align="center">
 <!--     <p>&nbsp;<img align="center" width="100%" src="https://github.com/shincyshnz/shincyshnz/assets/48871950/dfa138a2-2238-45ff-bd84-4beba0fc08db" alt="banner" /></p> -->
-    <p>&nbsp;<img align="center" width="80%" src="https://github.com/shincyshnz/shincyshnz/assets/48871950/03c925cb-4dc2-417a-ba5a-9e8b034b67fa" alt="banner" /></p>
+    <p>&nbsp;<img align="center" width="150PX" height="150px" src="https://github.com/shincyshnz/shincyshnz/assets/48871950/03c925cb-4dc2-417a-ba5a-9e8b034b67fa" alt="banner" /></p>
 </div>
 
 
