@@ -2,13 +2,13 @@
 <br />
 
 <div align="center">
-    <p>&nbsp;<img align="center" width="100%" src="https://github.com/shincyshnz/shincyshnz/assets/48871950/dfa138a2-2238-45ff-bd84-4beba0fc08db" alt="banner" /></p>
+<!--     <p>&nbsp;<img align="center" width="100%" src="https://github.com/shincyshnz/shincyshnz/assets/48871950/dfa138a2-2238-45ff-bd84-4beba0fc08db" alt="banner" /></p> -->
+    <p>&nbsp;<img align="center" width="100%" src="https://github.com/shincyshnz/shincyshnz/assets/48871950/24ed4fda-f10c-4f77-941a-7bcb1d4041f4" alt="banner" /></p>
 </div>
 
+
 - 💬 Ask me about **REACT, NodeJS, MongoDB, ExpressJS**
-
 - 📫 How to reach me **shincyshnz@gmail.com**
-
  
 <!-- <img align="right" height="250" width= "200" src="https://github.com/shincyshnz/shincyshnz/assets/48871950/7489cdaa-2deb-4719-868a-2a595f4b26ce" /> -->
 
